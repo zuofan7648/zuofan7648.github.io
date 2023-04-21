@@ -1,9 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>My New Hugo Site</title>
-    <link>zuofan7648.github.io/</link>
+    <link>https://zuofan7648.github.io/</link>
     <description>My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator><language>en-us</language>
-      <atom:link href="zuofan7648.github.io/index.xml" rel="self" type="application/rss+xml" />
-    </channel>
+    <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 21 Apr 2023 10:21:09 &#43;0800</lastBuildDate>
+      <atom:link href="https://zuofan7648.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+  <title>My First Post</title>
+  <link>https://zuofan7648.github.io/posts/my-first-post/</link>
+  <pubDate>Fri, 21 Apr 2023 10:21:09 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>https://zuofan7648.github.io/posts/my-first-post/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
